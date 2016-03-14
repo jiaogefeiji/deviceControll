@@ -1,0 +1,9 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "deviceControll"]
+	url = https://github.com/jiaogefeiji/deviceControll.git
+	fetch = +refs/heads/*:refs/remotes/deviceControll/*
